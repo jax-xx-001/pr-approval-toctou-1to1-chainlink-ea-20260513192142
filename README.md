@@ -16,3 +16,5 @@ Expected sequence:
 5. External contributor pushes a second commit to the fork PR branch.
 6. The PR is queried to check whether the old approval still satisfies the gate.
 7. Maintainer merges the PR and verifies that `main` contains the second commit.
+
+test
